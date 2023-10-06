@@ -1,0 +1,2 @@
+asr_e2e_online_child/model/ETE-Chn-0-GEN/model.pt http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fasr_e2e_online_child%2Fmodel%2FETE-Chn-0-GEN%2Fmodel.pt?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697831572&Signature=RiXn%2BNP%2FAvnIQwrTTuqJvu05AvA%3D
+asr_e2e_online_child/third_party/libtorch_cpu.so http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fasr_e2e_online_child%2Fthird_party%2Flibtorch_cpu.so?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697831619&Signature=BUN2GFAxZvZhQWccrf1BTcuqEWo%3D

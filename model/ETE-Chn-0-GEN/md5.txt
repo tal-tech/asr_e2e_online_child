@@ -1,0 +1,2 @@
+08f9d5c236a0e568ecc307b9a14a4966  taideng.V1.1/config.json
+0d2d41006d01d6075ac9f61b913f10ae  taideng.V1.1/model.pt
